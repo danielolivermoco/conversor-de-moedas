@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #8A51FC;
+    background-color: #2fd373; /* #8A51FC */
 }
 
 .logo {
@@ -30,7 +30,8 @@ label {
     font-size: 14px;
 }
 
-select, input {
+select,
+input {
     background: #ffffff;
     border: 1px solid #bbbbbb;
     border-radius: 4px;
@@ -46,7 +47,7 @@ select, input {
 }
 
 button {
-    background: #772FD3;
+    background: #2fd373;
     border-radius: 5px;
     width: 100%;
     border: none;
@@ -92,8 +93,51 @@ section {
     font-size: 14px;
 }
 
-.currency-value, .currency-value-to-convert {
+.currency-value,
+.currency-value-to-convert {
     color: #555555;
     font-weight: 700;
     font-size: 20px;
+}
+
+.currency-img {
+    width: 60px;
+    height: 60px;
+}
+
+@media screen and (max-width: 1200px) {
+
+    .logo {
+        width: 250px;
+    }
+
+}
+
+@media screen and (max-width: 1024px) {
+
+    .logo {
+        width: 250px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .logo {
+        width: 200px;
+    }
+
+    main {
+        width: 350px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+
+    .logo {
+        width: 200px;
+    }
+
+    main {
+        width: 300px;
+    }
 }
