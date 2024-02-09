@@ -1,7 +1,16 @@
 <h1> Projeto Conversor de Moedas </h1>
 <br>
 <br>
-<h2>Este projeto foi desenvolvido no Devclub. É um conversor de moedas simples e eficiente, permitindo aos usuários converter valores entre Real Brasileiro (BRL), Dólar Americano (USD) e Euro (EUR). Utilizando tecnologias web padrão, como HTML, CSS e JavaScript, o conversor oferece uma interface intuitiva e responsiva para uma experiência de usuário agradável. </a> </h2>
+<h2>Este projeto foi desenvolvido no Devclub. É um conversor de moedas simples e eficiente, permitindo aos usuários converter valores entre Real Brasileiro (BRL), Dólar Americano (USD) e Euro (EUR). Utilizando tecnologias web padrão, como HTML, CSS e JavaScript, o conversor oferece uma interface intuitiva e responsiva para uma experiência de usuário agradável.   <br><br>
+Recursos Principais: <br><br>
+  
+Conversão Rápida e Precisa: Com uma interface minimalista e intuitiva, os usuários podem facilmente inserir o valor em Real Brasileiro e selecionar a moeda de destino (Dólar ou Euro). O conversor realizará instantaneamente a conversão utilizando as taxas de câmbio mais recentes.
+
+Design Responsivo e Atraente: Desenvolvido com HTML5 e CSS3, o conversor apresenta um layout responsivo que se adapta perfeitamente a uma variedade de dispositivos, desde desktops até smartphones, proporcionando uma experiência consistente em todas as plataformas. <br><br> 
+
+Conclusão:
+
+O conversor de moedas desenvolvido no Devclub combina simplicidade, funcionalidade e desempenho para oferecer aos usuários uma ferramenta confiável para realizar conversões monetárias de forma rápida e conveniente. Com uma interface intuitiva e tecnologias web modernas, o conversor proporciona uma experiência de usuário agradável, ajudando os usuários a lidar facilmente com transações financeiras internacionais.</a> </h2>
   <br>
 <br>
   <h3> Tecnologias Utilizadas </h3>
