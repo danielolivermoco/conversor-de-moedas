@@ -7,7 +7,8 @@
 }
 
 body {
-    background-color: #2fd373; /* #8A51FC */
+    background-image: url(./assets/moedas.jpg); 
+    background-size: cover;
 }
 
 .logo {
@@ -20,7 +21,7 @@ main {
     width: 375px;
     background-color: #F4F4F4;
     border-radius: 20px;
-    margin: 0 auto 40px;
+    margin: 90px auto 40px;
     padding: 44px 24px 23px;
 }
 
